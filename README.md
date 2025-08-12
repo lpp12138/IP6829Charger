@@ -1,5 +1,5 @@
-Just a wireless charger  
-Opensourced with CC-BY-NC-SA 4.0  
+## Just a wireless charger ##  
+Opensourced with CC-BY-NC-SA 4.0
   
 Special for this repository:  
 Anyone can obtain a commercial license for up to 100 copies of their work during an event (such as Comic Market).  
@@ -8,3 +8,5 @@ To obtain your license, please submit a pull request to .specialAdmits in the fo
 Once this pull request is accepted, you will be granted the aforementioned license.  
 You will need to apply separately for each different installment of the same event.  
 Only one license application is permitted per booth, per event.  
+
+## If you R meeting any problems, feel free to open an issue or contact me at lpp@lpp.moe ##  
