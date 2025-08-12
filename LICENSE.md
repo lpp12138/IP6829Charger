@@ -1,5 +1,7 @@
 Attribution-NonCommercial-ShareAlike 4.0 International
 
+======================================================================= 
+
 
 Special for this repository:
 Anyone can obtain a commercial license for up to 100 copies of their work during an event (such as Comic Market).
